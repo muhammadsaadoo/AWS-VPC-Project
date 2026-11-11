@@ -2,7 +2,7 @@
 
 A multi-tier AWS deployment of a Spring Boot REST API with an Application Load Balancer, an Auto Scaling group, and a replicated PostgreSQL database running in private subnets across two Availability Zones.
 
-![Architecture](architecture/architecture-diagram.png)
+![Architecture](Project-Diagram/Complete-Archetecture.png)
 
 ---
 
